@@ -1,0 +1,13 @@
+Speck Chase Privacy Policy
+
+It's quite simple: The Speck Chase application does not collect any personal or sensitive data.
+Specifically:
+* No data regarding the person who runs the application is collected.
+* No data regarding the device on which the application runs is collected.
+* No data regarding the circumstances in which the application is run is collected.
+* Actually, no data is handled by the Speck Chase application at all, besides the clicks made by the user on the screen made during the gameplay.
+
+As nothing is collected, there is nothing to keep, protect, delete, or worry of leaking.
+That's all folks.
+
+Enjoy your play!
